@@ -17,16 +17,16 @@ const WorkoutSchema = new Schema({
                 required: 'Enter duration of workout'
             },
             weight: {
-                type: number,
+                type: Number,
             },
             distance: {
-                type: number,
+                type: Number,
             },
             sets: {
-                type: number,
+                type: Number,
             },
             reps: {
-                type: number,
+                type: Number,
             },
         }
     ]
