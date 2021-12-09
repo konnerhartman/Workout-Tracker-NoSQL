@@ -29,7 +29,11 @@ const WorkoutSchema = new Schema({
                 type: Number,
             },
         }
-    ]
+    ],
+    day: {
+        type: Date,
+        default: Date.now
+    }
 });
 
 const Workout = mongoose.model("Workout", WorkoutSchema);
