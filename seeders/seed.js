@@ -82,14 +82,6 @@ const workoutSeed = [
         reps: 10,
         sets: 4,
       },
-      {
-        type: 'resistance',
-        name: 'Bench Press',
-        duration: 20,
-        weight: 300,
-        reps: 10,
-        sets: 4,
-      }
     ],
   },
   {
@@ -129,6 +121,22 @@ const workoutSeed = [
         reps: 10,
         sets: 4,
       },
+      {
+        type: 'resistance',
+        name: 'Bench Press',
+        duration: 40,
+        weight: 250,
+        reps: 12,
+        sets: 3,
+      },
+      {
+        type: 'resistance',
+        name: 'Bench Press',
+        duration: 40,
+        weight: 250,
+        reps: 12,
+        sets: 3,
+      }
     ],
   },
 ];
