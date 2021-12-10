@@ -29,15 +29,21 @@
   ## Credits
   Konner Hartman (myself)
   </br>
+  https://docs.mongodb.com/manual/reference/operator/aggregation/addFields/
+  </br>
+  https://docs.mongodb.com/manual/reference/operator/aggregation/sum/
+  </br>
+  https://stackoverflow.com/
+  </br>
 
   ## Links
   Deployed Link:
   </br>
-
+  https://whack-workout-tracker.herokuapp.com/
   </br>
   GitHub Repository:
   </br>
-
+  https://github.com/konnerhartman/Workout-Tracker-NoSQL
 
   ## Tests
   There are no tests included with this project.
