@@ -18,7 +18,7 @@
   - [Questions](#questions)
 
   ## Screencapture
-  ![Gif]()
+  ![Gif](./public/assets/Fitness-Tracker.gif)
 
   ## Installation
   There is no instalation process for this app as it is loaded to a live server.
@@ -47,7 +47,7 @@
   </br>
   * https://whack-workout-tracker.herokuapp.com/
   </br>
-  
+
   GitHub Repository:
   </br>
   * https://github.com/konnerhartman/Workout-Tracker-NoSQL
