@@ -31,15 +31,10 @@
 
   ## Credits
   * Konner Hartman (myself)
-  </br>
   * https://docs.mongodb.com/manual/reference/operator/aggregation/addFields/
-  </br>
   * https://docs.mongodb.com/manual/reference/operator/aggregation/sum/
-  </br>
   * https://stackoverflow.com/
-  </br>
   * BCS Tutor
-  </br>
   * Classmates
 
   ## Links
